@@ -1,0 +1,12 @@
+Connected Client:  A at  ('127.0.0.1', 54695)
+Received data A: ping
+Connected Client:  B at  ('127.0.0.1', 54696)
+Received data B: ping
+Received data A: ping
+Received data B: ping
+Received data B: ping
+Received data A: ping
+Received data B: ping
+Received data B: ping
+Connection closed at address:('127.0.0.1', 54695)
+Connection closed at address:('127.0.0.1', 54696)
